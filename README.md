@@ -1,2 +1,2 @@
 # Sistema-Escolar
-Sistema de Controle Escolar do Aluno
+SCEA - Sistema de Controle Escolar do Aluno
